@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BogdanViblyyIseseisevtööList", "BogdanViblyyIseseisevtööList.pyproj", "{BA87982D-3D02-4377-A363-07B19503375D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA87982D-3D02-4377-A363-07B19503375D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA87982D-3D02-4377-A363-07B19503375D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EFECF2C-0C1C-494B-B8AD-13AF280780FE}
+	EndGlobalSection
+EndGlobal
